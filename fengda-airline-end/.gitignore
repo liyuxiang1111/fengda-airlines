@@ -1,2 +1,4 @@
 # Project exclude paths
 /project-buyer/target/
+/project-controller/target/
+.idea
